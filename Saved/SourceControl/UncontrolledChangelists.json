@@ -150,7 +150,10 @@
 				"C:/Users/Tom/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/GAM207_FinalProject_Pienkowski/4/XD/7F4T3ZCXZ5FSK3NAV1FDFV.uasset",
 				"C:/Users/Tom/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/GAM207_FinalProject_Pienkowski/5/JC/46IC8T9E23E9FR9816BN7N.uasset",
 				"C:/Users/Tom/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/GAM207_FinalProject_Pienkowski/C/UU/KKKNLXWJBVY5F6YMXT18R0.uasset",
-				"C:/Users/Tom/Documents/Unreal Projects/MyProject/Content/GAM207_FinalProject_Pienkowski.umap"
+				"C:/Users/Tom/Documents/Unreal Projects/MyProject/Content/GAM207_FinalProject_Pienkowski.umap",
+				"C:/Users/Tom/Documents/Unreal Projects/MyProject/Content/BP_PlayerCharacter.uasset",
+				"C:/Users/Tom/Documents/Unreal Projects/MyProject/Content/BP_Projectile.uasset",
+				"C:/Users/Tom/Documents/Unreal Projects/MyProject/Content/Blueprints/BP_GameMode.uasset"
 			]
 		}
 	]
