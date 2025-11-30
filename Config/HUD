@@ -1,0 +1,4 @@
+- Implement AI 3D health bar widget with bound progress bar
+- Add random spawn point system for player and enemy respawns
+- Fix EnemyRef and spawn location blueprint wiring
+- Clean up health/respawn Blueprint graphs for final submission
