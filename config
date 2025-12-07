@@ -1,0 +1,6 @@
+Add score widgets, animations, and pickups for both players
+
+- Added score widgets for player and AI, updating on kills
+- Hooked up animations for both characters during movement/combat
+- Implemented health and shield pickup items in the level
+- Wired pickups into existing health/shield systems
